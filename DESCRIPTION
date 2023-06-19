@@ -1,0 +1,9 @@
+Package: RandLetter
+Type: Package
+Title: Selecting a random letter
+Version: 1.0
+Date: 2023-06-19
+Author: Nataliya Volkova
+Maintainer: Who to complain to <yourfault@somewhere.net>
+Description: This function chooses a random letter
+License: What license is it under?
